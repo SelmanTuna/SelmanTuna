@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Restaurant Application**
 
-- 🌱 I’m currently learning **.Net Core 8.0, React Native,**
+- 🌱 I’m currently learning **.Net Core 9.0, React Native,**
 
 - 📫 How to reach me **selmantuna90@gmail.com**
 
