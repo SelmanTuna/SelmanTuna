@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Selman Tuna</h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Restaurant Application**
+- 🔭 I am now actively working on two ongoing software development initiatives:
+-  Blinds Suite Software and Property Management Software
 
 - 🌱 I’m currently learning **.Net Core 9.0, React Native,**
 
